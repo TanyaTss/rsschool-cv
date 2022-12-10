@@ -1,5 +1,7 @@
 # [rsschool-cv]("https://app.rs.school")
 # Tatiana Untilova
+<img src="Photo.jpg" alt="drawing" width="250"/>
+
 ## Contacts
 * Location: Tbilisi, Georgia
 * Phone: +995 511107986
