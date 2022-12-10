@@ -26,3 +26,10 @@ function multiply(a, b){
 let result = multiply(1, 1);
 console.log( result );
 ```
+## Education and courses
+* Voronezh State Agricultural University
+* [WEB development for beginners: HTML and CSS]("https://stepik.org/cert/1677218")
+
+## Language
+* Russian - native
+* English - B1
